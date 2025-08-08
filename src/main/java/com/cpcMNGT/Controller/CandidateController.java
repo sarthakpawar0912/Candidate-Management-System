@@ -1,5 +1,4 @@
 package com.cpcMNGT.Controller;
-
 import com.cpcMNGT.Entity.Candidate;
 import com.cpcMNGT.Service.CandidateService;
 import org.springframework.beans.factory.annotation.Autowired;
